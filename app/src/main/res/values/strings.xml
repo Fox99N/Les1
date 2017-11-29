@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StartActivity</string>
+    <string name="hope_now_you_see_new_text">Hope, now you see new text</string>
+    <string name="find_button">Find</string>
+    <string name="print_next_page">Print Next Page</string>
+    <string name="insert_youre_query">Insert youre query</string>
+    <string name="map">Map</string>
+    <string name="_menu">find</string>
+    <string name="add">add_button</string>
+    <string name="action_button">action_button</string>
+</resources>
